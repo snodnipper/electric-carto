@@ -3,8 +3,8 @@
     "height": 63,
     "pixelRatio": 3,
     "width": 63,
-    "x": 108,
-    "y": 0
+    "x": 0,
+    "y": 126
   },
   "Electric-Vehicle": {
     "height": 126,
@@ -17,42 +17,49 @@
     "height": 45,
     "pixelRatio": 3,
     "width": 46,
-    "x": 348,
-    "y": 126
+    "x": 366,
+    "y": 189
   },
   "LRTS-UG": {
     "height": 47,
     "pixelRatio": 3,
     "width": 103,
-    "x": 0,
+    "x": 63,
     "y": 126
   },
   "RS": {
     "height": 46,
     "pixelRatio": 3,
     "width": 72,
-    "x": 103,
-    "y": 126
+    "x": 121,
+    "y": 189
   },
   "RS-LRTS": {
     "height": 47,
     "pixelRatio": 3,
     "width": 121,
     "x": 0,
-    "y": 173
+    "y": 189
   },
   "RS-UG": {
     "height": 46,
     "pixelRatio": 3,
     "width": 119,
-    "x": 175,
-    "y": 126
+    "x": 193,
+    "y": 189
   },
   "UG": {
     "height": 46,
     "pixelRatio": 3,
     "width": 54,
-    "x": 294,
-    "y": 126
+    "x": 312,
+    "y": 189
+  },
+  "Vehicle-Other": {
+    "height": 126,
+    "pixelRatio": 3,
+    "width": 108,
+    "x": 108,
+    "y": 0
   }
 }
