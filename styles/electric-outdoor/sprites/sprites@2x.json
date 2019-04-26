@@ -1,0 +1,58 @@
+{
+  "Airport": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 72,
+    "y": 0
+  },
+  "Electric-Vehicle": {
+    "height": 84,
+    "pixelRatio": 2,
+    "width": 72,
+    "x": 0,
+    "y": 0
+  },
+  "LRTS": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 184,
+    "y": 84
+  },
+  "LRTS-UG": {
+    "height": 31,
+    "pixelRatio": 2,
+    "width": 69,
+    "x": 0,
+    "y": 84
+  },
+  "RS": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 214,
+    "y": 84
+  },
+  "RS-LRTS": {
+    "height": 31,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 115
+  },
+  "RS-UG": {
+    "height": 31,
+    "pixelRatio": 2,
+    "width": 79,
+    "x": 69,
+    "y": 84
+  },
+  "UG": {
+    "height": 31,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 148,
+    "y": 84
+  }
+}
