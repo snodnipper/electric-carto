@@ -3,8 +3,8 @@
     "height": 63,
     "pixelRatio": 3,
     "width": 63,
-    "x": 0,
-    "y": 126
+    "x": 324,
+    "y": 0
   },
   "Electric-Vehicle": {
     "height": 126,
@@ -13,18 +13,39 @@
     "x": 0,
     "y": 0
   },
+  "Human-Sombrero": {
+    "height": 126,
+    "pixelRatio": 3,
+    "width": 108,
+    "x": 108,
+    "y": 0
+  },
+  "Human-Sombrero-Buckle": {
+    "height": 126,
+    "pixelRatio": 3,
+    "width": 108,
+    "x": 0,
+    "y": 126
+  },
+  "Human-Sombrero-Feet": {
+    "height": 126,
+    "pixelRatio": 3,
+    "width": 108,
+    "x": 108,
+    "y": 126
+  },
   "LRTS": {
     "height": 45,
     "pixelRatio": 3,
     "width": 46,
     "x": 366,
-    "y": 189
+    "y": 252
   },
   "LRTS-UG": {
     "height": 47,
     "pixelRatio": 3,
     "width": 103,
-    "x": 63,
+    "x": 216,
     "y": 126
   },
   "RS": {
@@ -32,34 +53,34 @@
     "pixelRatio": 3,
     "width": 72,
     "x": 121,
-    "y": 189
+    "y": 252
   },
   "RS-LRTS": {
     "height": 47,
     "pixelRatio": 3,
     "width": 121,
     "x": 0,
-    "y": 189
+    "y": 252
   },
   "RS-UG": {
     "height": 46,
     "pixelRatio": 3,
     "width": 119,
     "x": 193,
-    "y": 189
+    "y": 252
   },
   "UG": {
     "height": 46,
     "pixelRatio": 3,
     "width": 54,
     "x": 312,
-    "y": 189
+    "y": 252
   },
   "Vehicle-Other": {
     "height": 126,
     "pixelRatio": 3,
     "width": 108,
-    "x": 108,
+    "x": 216,
     "y": 0
   }
 }
